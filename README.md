@@ -38,6 +38,11 @@ https://www.youtube.com/watch?v=LtiRISepIfs
 ```
 var validExtensions = new[]{".txt", ".doc", ".docx", ".xls", ".xlsx", ".ppt", ".pptx", ".odt", ".jpg", ".png", ".csv", ".sql", ".mdb", ".sln", ".php", ".asp", ".aspx", ".html", ".xml", ".psd"};
 ```
+
+Hidden Tear Offline Complete Tutorial and Review (with source codes in discription)
+https://www.youtube.com/watch?v=Pcsy4KMYQE8
+
+
 **Legal Warning** 
 
 While this may be helpful for some, there are significant risks. hidden tear may be used only for Educational Purposes. Do not use it as a ransomware! You could go to jail on obstruction of justice charges just for running hidden tear, even though you are innocent.
