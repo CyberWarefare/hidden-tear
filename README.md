@@ -39,8 +39,10 @@ https://www.youtube.com/watch?v=LtiRISepIfs
 var validExtensions = new[]{".txt", ".doc", ".docx", ".xls", ".xlsx", ".ppt", ".pptx", ".odt", ".jpg", ".png", ".csv", ".sql", ".mdb", ".sln", ".php", ".asp", ".aspx", ".html", ".xml", ".psd"};
 ```
 
-Hidden Tear Offline Complete Tutorial and Review (with source codes in discription)
+
+* Hidden Tear Offline Complete Tutorial and Review (with source codes in discription)
 https://www.youtube.com/watch?v=Pcsy4KMYQE8
+
 
 
 **Legal Warning** 
